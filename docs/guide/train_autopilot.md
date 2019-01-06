@@ -24,7 +24,7 @@ to a PC computer to train.
 In a new terminal session on your host PC use rsync to copy your cars
 folder from the raspberry pi.
 ```bash
-rsync -r pi@<your_pi_ip_address>:~/mycar/data/  ~/mycar/data/
+rsync -r pi@<your_pi_ip_address>:~/mycar/tub/  ~/mycar/tub/
 ```
 
 
