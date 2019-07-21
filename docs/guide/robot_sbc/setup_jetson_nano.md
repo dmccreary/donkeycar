@@ -213,8 +213,8 @@ cd projects
 git clone https://github.com/autorope/donkeycar
 cd donkeycar
 git checkout master
-pip install -e .[nano]
-pip install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu==1.13.1+nv19.3
+pip3 install -e .[nano]
+pip3 install --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v42 tensorflow-gpu==1.13.1+nv19.3
 ```
 
 ----
