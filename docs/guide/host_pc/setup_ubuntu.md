@@ -2,7 +2,7 @@
 
 ![donkey](/assets/logos/linux_logo.png)
 
-> Note : tested on Ubuntu 18.04 LTS
+> Note : tested on Ubuntu 18.04 LTS and 19.10
 
 * Open the Terminal application.
 
